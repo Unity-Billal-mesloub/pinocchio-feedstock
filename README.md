@@ -1,15 +1,15 @@
 About pinocchio-feedstock
 =========================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pinocchio-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/Unity-Billal-mesloub/pinocchio-feedstock/blob/main/LICENSE.txt)
 
-Home: http://github.com/stack-of-tasks/pinocchio
+Home: http://github.com/Unity-Billal-mesloub/pinocchio
 
 Package license: BSD-2-Clause
 
 Summary: A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 
-Development: https://github.com/stack-of-tasks/pinocchio
+Development: https://github.com/Unity-Billal-mesloub/pinocchio
 
 Current build status
 ====================
@@ -325,7 +325,7 @@ it is possible to build and upload installable packages to the
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance,
-[conda-smithy](https://github.com/conda-forge/conda-smithy) has been developed.
+[conda-smithy](https://github.com/Unity-Billal-mesloub/conda-smithy) has been developed.
 Using the ``conda-forge.yml`` within this repository, it is possible to re-render all of
 this feedstock's supporting files (e.g. the CI configuration files) with ``conda smithy rerender``.
 
@@ -369,10 +369,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@fabinsch](https://github.com/fabinsch/)
-* [@jcarpent](https://github.com/jcarpent/)
-* [@jorisv](https://github.com/jorisv/)
-* [@nim65s](https://github.com/nim65s/)
-* [@wolfv](https://github.com/wolfv/)
-* [@ymontmarin](https://github.com/ymontmarin/)
+* [@fabinsch](https://github.com/Unity-Billal-mesloub/)
+
 
